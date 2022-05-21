@@ -1,3 +1,9 @@
+#Manually excluded
+productos/
+datos/imagenes/
+**/.ipynb_checkpoints/*
+*.tif
+
 # Temporary and binary files
 *~
 *.py[cod]
