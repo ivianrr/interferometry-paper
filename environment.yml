@@ -1,28 +1,15 @@
-name: jupy
+name: interf
 channels:
   - defaults
   - conda-forge
 dependencies:
   - jupyterlab
-  - nodejs
-  - git
-  - tk
-  - photutils
-  - astroquery
-  - spyder
-  - autopep8
+  - pandas
+  - numpy
   - xlrd
+  - ipywidgets
   - openpyxl
   - pytables
-  - opencv
-  - seaborn
-  - keras
-  - tensorflow
-  - selenium
-  - beautifulsoup4
-  - python-dotenv
-  - bokeh
-  - ipywidgets
+  - scipy
+  - matplotlib
   - ipympl
-  - cookiecutter
-  - pyscaffoldext-dsproject

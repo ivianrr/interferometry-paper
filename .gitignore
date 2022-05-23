@@ -4,6 +4,8 @@ datos/imagenes/
 **/.ipynb_checkpoints/*
 *.tif
 
+productos.zip
+
 # Temporary and binary files
 *~
 *.py[cod]
