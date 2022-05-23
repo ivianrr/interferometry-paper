@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivianrr/interferometry-paper/master?urlpath=lab/tree/ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ivianrr/interferometry-paper/master?urlpath=lab/tree/01-tabla.ipynb)
 
 Code used to create the figures and part of the results in our unpublished about stellar interferometry.
 
