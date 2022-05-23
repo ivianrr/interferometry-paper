@@ -1,10 +1,11 @@
 #Manually excluded
 productos/
-datos/imagenes/
+datos/imagenes/*/*
+productos.zip
 **/.ipynb_checkpoints/*
 *.tif
 
-productos.zip
+!datos/imagenes/*/*.tif
 
 # Temporary and binary files
 *~

@@ -13,3 +13,4 @@ dependencies:
   - scipy
   - matplotlib
   - ipympl
+  - hdf5
