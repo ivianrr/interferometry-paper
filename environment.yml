@@ -1,0 +1,29 @@
+name: base
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - tqdm
+  - sphinx
+  - jupyterlab
+  - pandas
+  - python[version='>=3.6']
+  - ipython
+  - pre_commit
+  - nbstripout
+  - seaborn
+  - recommonmark
+  - pytest
+  - matplotlib
+  - scipy
+  - pytest-cov
+  - tox
+  - numpy
+  - pip
+  - nbdime
+  - ipympl
+  - click
+  - autopep8
+  - conda
+  - sqlite
+prefix: C:\Users\ivian\.conda\envs\calculoastronomico
