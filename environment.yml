@@ -1,29 +1,28 @@
-name: base
+name: jupy
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - tqdm
-  - sphinx
   - jupyterlab
-  - pandas
-  - python[version='>=3.6']
-  - ipython
-  - pre_commit
-  - nbstripout
-  - seaborn
-  - recommonmark
-  - pytest
-  - matplotlib
-  - scipy
-  - pytest-cov
-  - tox
-  - numpy
-  - pip
-  - nbdime
-  - ipympl
-  - click
+  - nodejs
+  - git
+  - tk
+  - photutils
+  - astroquery
+  - spyder
   - autopep8
-  - conda
-  - sqlite
-prefix: C:\Users\ivian\.conda\envs\calculoastronomico
+  - xlrd
+  - openpyxl
+  - pytables
+  - opencv
+  - seaborn
+  - keras
+  - tensorflow
+  - selenium
+  - beautifulsoup4
+  - python-dotenv
+  - bokeh
+  - ipywidgets
+  - ipympl
+  - cookiecutter
+  - pyscaffoldext-dsproject
