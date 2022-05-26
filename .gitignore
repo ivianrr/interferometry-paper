@@ -4,7 +4,7 @@ datos/imagenes/*/*
 productos.zip
 **/.ipynb_checkpoints/*
 *.tif
-
+copiadatos/
 !datos/imagenes/*/*.tif
 
 # Temporary and binary files
