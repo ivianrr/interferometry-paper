@@ -1,6 +1,7 @@
 #Manually excluded
 productos/
 datos/imagenes/*/*
+datos/videos/*/*
 productos.zip
 **/.ipynb_checkpoints/*
 *.tif
